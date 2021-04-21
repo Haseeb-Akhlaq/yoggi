@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959859734764",
+    "project_id": "yogig-platform-app",
+    "storage_bucket": "yogig-platform-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959859734764:android:dda071c4e9c0dd463e4dc9",
+        "android_client_info": {
+          "package_name": "com.example.yogigg_platform_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959859734764-in7h6bdr225usfvoo8qu6jodg4bhpo6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCUDIm2PEsANEJFCrB1vn__v9w88xKM7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959859734764-in7h6bdr225usfvoo8qu6jodg4bhpo6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
